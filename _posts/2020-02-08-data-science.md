@@ -5,7 +5,6 @@ date: 2020-02-08 00:00:00 +0000
 categories: Data Science
 
 ---
-![](/uploads/IMG-20170205-WA0002.jpg)
 
 # **Starting Your Data Analysis**
 
