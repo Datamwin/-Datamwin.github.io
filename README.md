@@ -1,2 +1,2 @@
 # Welcome to Jethro's Blog
-## Home of DataScience and Artificial Intelligence
+## Home of Data Science and Artificial Intelligence
