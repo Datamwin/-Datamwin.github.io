@@ -15,4 +15,4 @@ fields:
   name: categories
   label: categories
 pages:
-- _posts/data-science.md
+- _posts/2020-02-08-data-science.md
